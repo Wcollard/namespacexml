@@ -1,0 +1,17 @@
+<xml version="1.0">
+<actors xmins:fictional="http://characters.example.com"
+		xmins="http://people.example.com">
+
+		<actor>
+			<name>John Cleese </name>
+			<fictional:character>Lancelot</fictional:character>
+			<fictional:character>Archie Leach</fictional:characeter>
+		</actor>
+		<actor>
+			<name>Eric Idle</name>
+				<fictional:character>Sir Robin</fictional:character>
+				<fictional:character>Gunther</fictional:character>
+				<fictional:character>Commander Clemnent</fictional:character>
+		</actor>
+</actors>
+				
